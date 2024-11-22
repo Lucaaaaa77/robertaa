@@ -30,3 +30,8 @@ img {
      height:255px
 
 }
+
+.categoria-videos img {
+   opacity: 0.5
+
+}
